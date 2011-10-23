@@ -1,3 +1,15 @@
+//
+// testController.m
+//
+// IP Viewer Widget on iOS 5
+// by huebyinventions
+//
+// only for testing how widgets work on iOS 5
+//
+// it can be possible, that this file has unnecessary code lines!
+//
+
+
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import "BBWeeAppController-Protocol.h"
